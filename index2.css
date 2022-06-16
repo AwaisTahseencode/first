@@ -181,6 +181,11 @@ a{
     margin-bottom: 2rem;
 }
 @media(min-width:61.31em){
+    .tech-para{
+        margin-top: 2rem;
+        line-height: 1.2;
+        letter-spacing: 1.5px;
+    }
     .btn_primary:hover{
         transform: scale(1.5);
         background-color: #495057;
